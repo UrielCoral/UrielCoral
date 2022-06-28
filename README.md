@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @UrielCoral from Mérida, Yucatán, México!
+- 👀 I’m interested in apply my knowledge en web development using PHP, Laravel & react.js, and learn new tecnologies...
+- 🌱 I’m currently learning react.js, SCRUM, AWS and english.
+- 💞️ I’m looking to collaborate on backend web projects.
+- 📫 9995440064 or empresas@talenty.com.mx 
+- Here you can see many projects or examples that i was working.
